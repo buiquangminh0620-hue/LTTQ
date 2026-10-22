@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\kiemtra\baikiemtra\baikiemtra\obj\Debug\baikiemtra.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\kiemtra\baikiemtra\baikiemtra\obj\Debug\baikiemtra.Form1.resources
+C:\Users\Admin\Desktop\kiemtra\baikiemtra\baikiemtra\obj\Debug\baikiemtra.Properties.Resources.resources
+C:\Users\Admin\Desktop\kiemtra\baikiemtra\baikiemtra\obj\Debug\baikiemtra.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\kiemtra\baikiemtra\baikiemtra\obj\Debug\baikiemtra.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\kiemtra\baikiemtra\baikiemtra\bin\Debug\baikiemtra.exe.config
+C:\Users\Admin\Desktop\kiemtra\baikiemtra\baikiemtra\bin\Debug\baikiemtra.exe
+C:\Users\Admin\Desktop\kiemtra\baikiemtra\baikiemtra\bin\Debug\baikiemtra.pdb
+C:\Users\Admin\Desktop\kiemtra\baikiemtra\baikiemtra\obj\Debug\baikiemtra.exe
+C:\Users\Admin\Desktop\kiemtra\baikiemtra\baikiemtra\obj\Debug\baikiemtra.pdb

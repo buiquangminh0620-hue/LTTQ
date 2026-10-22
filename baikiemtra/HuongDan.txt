@@ -1,0 +1,26 @@
+BAI KIEM TRA - DE 06
+
+Da lam cac muc 1 den 5, bo muc 6 (tinh thong ke).
+
+DA SUA LOI INVALID OBJECT NAME tblDiemThi
+- Bang tblDiemThi that su nam trong CSDL DiemThi tren may.
+- DataProcesser.cs da doi Initial Catalog=DuLieu thanh Initial Catalog=DiemThi.
+- Dung ngay 3 dong DT01, DT02, DT03 da co; khong can tao lai du lieu.
+
+CACH CHAY
+1. Neu dang chay chuong trinh, dong chuong trinh hoac bam Shift+F5 trong Visual Studio.
+2. Khi Visual Studio hoi tai lai file da thay doi, chon Reload.
+3. Mo baikiemtra.slnx, bam F5.
+
+SU DUNG
+- Nhap du 4 o, bam Them vao danh sach (Alt+D).
+- Bam mot dong tren luoi, sua thong tin va bam Sua thong tin.
+- Bam Thoat (Alt+H), chon Yes de thoat, No de o lai.
+- Diem thi co the nhap 8.5 hoac 8,5.
+- Phan thong ke chi giu giao dien va khoa nhap.
+
+GHI CHU DE BAI
+TaoCSDL.sql la script tao DuLieu theo ten trong Cau 1 cua de.
+Ban chay tren may nay dung CSDL DiemThi da co san, giong project ban dau.
+Neu muon chuyen sang DuLieu: chay TaoCSDL.sql thanh cong truoc,
+sau do doi Initial Catalog trong DataProcesser.cs thanh DuLieu.
