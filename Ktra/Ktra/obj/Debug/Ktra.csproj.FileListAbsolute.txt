@@ -1,0 +1,10 @@
+C:\Users\buiqu\Desktop\Ktra\Ktra\Ktra\bin\Debug\Ktra.exe.config
+C:\Users\buiqu\Desktop\Ktra\Ktra\Ktra\bin\Debug\Ktra.exe
+C:\Users\buiqu\Desktop\Ktra\Ktra\Ktra\bin\Debug\Ktra.pdb
+C:\Users\buiqu\Desktop\Ktra\Ktra\Ktra\obj\Debug\Ktra.csproj.AssemblyReference.cache
+C:\Users\buiqu\Desktop\Ktra\Ktra\Ktra\obj\Debug\Ktra.Form1.resources
+C:\Users\buiqu\Desktop\Ktra\Ktra\Ktra\obj\Debug\Ktra.Properties.Resources.resources
+C:\Users\buiqu\Desktop\Ktra\Ktra\Ktra\obj\Debug\Ktra.csproj.GenerateResource.cache
+C:\Users\buiqu\Desktop\Ktra\Ktra\Ktra\obj\Debug\Ktra.csproj.CoreCompileInputs.cache
+C:\Users\buiqu\Desktop\Ktra\Ktra\Ktra\obj\Debug\Ktra.exe
+C:\Users\buiqu\Desktop\Ktra\Ktra\Ktra\obj\Debug\Ktra.pdb
